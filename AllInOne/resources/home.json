@@ -1,0 +1,111 @@
+[
+    {
+      "id": "1",
+      "english": "a to z",
+      "hindi": "a to z",
+      "tablename": "alphabets_atoz_small"
+    },
+    {
+      "id": "2",
+      "english": "A to Z",
+      "hindi": "A to Z",
+      "tablename": "alphabets_atoz_big"
+    },
+    {
+        "id": "3",
+        "english": "Number Table",
+        "hindi": "Number Table",
+        "tablename": "number_table_default"
+      },
+      {
+        "id": "4",
+        "english": "1 To 10 Number Table",
+        "hindi": "1 To 10 Number Table",
+        "tablename": "number_table_one_to_ten"
+      },
+      {
+        "id": "5",
+        "english": "11 To 20 Number Table",
+        "hindi": "11 To 20 Number Table",
+        "tablename": "number_table_eleven_to_twenty"
+      },
+      {
+        "id": "6",
+        "english": "Day Names",
+        "hindi": "Day Names",
+        "tablename": "weekdays"
+      },
+      {
+        "id": "7",
+        "english": "Month Names",
+        "hindi": "Month Names",
+        "tablename": "month"
+      },
+      {
+        "id": "8",
+        "english": "Birds Names",
+        "hindi": "Birds Names",
+        "tablename": "birds"
+      },
+      {
+        "id": "9",
+        "english": "Fruits Names",
+        "hindi": "Fruits Names",
+        "tablename": "fruits"
+      },
+      {
+        "id": "10",
+        "english": "Vegetables Names",
+        "hindi": "Vegetables Names",
+        "tablename": "vegetables"
+      },
+      {
+        "id": "11",
+        "english": "Human Body Parts",
+        "hindi": "Human Body Parts",
+        "tablename": "humanbodyparts"
+      },
+      {
+        "id": "12",
+        "english": "Pets Animals Names",
+        "hindi": "Pets Animals Names",
+        "tablename": "animal_pets"
+      },
+      {
+        "id": "13",
+        "english": "Wild Animals Names",
+        "hindi": "Wild Animals Names",
+        "tablename": "animal_wild"
+      },
+      {
+        "id": "14",
+        "english": "Farm Animals Names",
+        "hindi": "Farm Animals Names",
+        "tablename": "animal_farm"
+      },
+      {
+        "id": "15",
+        "english": "Sea Animals Names",
+        "hindi": "Sea Animals Names",
+        "tablename": "animal_sea"
+      },
+      {
+        "id": "16",
+        "english": "Insects Animals Names",
+        "hindi": "Insects Animals Names",
+        "tablename": "animal_insects"
+      },
+      {
+        "id": "17",
+        "english": "States Name With Capital",
+        "hindi": "States Name With Capital",
+        "tablename": "states"
+      },
+      {
+        "id": "18",
+        "english": "Colours",
+        "hindi": "Colours",
+        "tablename": "colours"
+      }
+      
+]

@@ -1,0 +1,142 @@
+[
+    {
+      "name": "Tiger",
+      "english": "(टाइगर)",
+      "hindi": "बाघ (Bagh)"
+    },
+    {
+      "name": "Lion",
+      "english": "(लायन)",
+      "hindi": "शेर (Sher)"
+    },
+    {
+      "name": "Reindeer",
+      "english": "(रेनडियर)",
+      "hindi": "बारहसिंगा (Barahsinga)"
+    },
+    {
+      "name": "Gorilla",
+      "english": "(गोरिल्ला)",
+      "hindi": "गोरिल्ला (Gorilla)"
+    },
+    {
+      "name": "Fox",
+      "english": "(फॉक्स)",
+      "hindi": "लोमड़ी (Lomdi)"
+    },
+    {
+      "name": "Elk",
+      "english": "(एल्क)",
+      "hindi": "गोज़न (Gojan)"
+    },
+    {
+      "name": "Snake",
+      "english": "(स्नेक)",
+      "hindi": "सांप (Sanp)"
+    },
+    {
+      "name": "Kangaroo",
+      "english": "(कंगारू)",
+      "hindi": "कंगारू"
+    },
+    {
+      "name": "Hippopotamus ",
+      "english": "(हिप्पोपटेमस)",
+      "hindi": "दरियाई घोडा (Dariyai ghoda)"
+    },
+    {
+      "name": "Alligator",
+      "english": "(एलीगेटर)",
+      "hindi": "मगरमच्छ  (Magarmachchh)"
+    },
+    {
+      "name": "Arctic wolf",
+      "english": "(आर्कटिक वुल्फ)",
+      "hindi": "भेड़िया (bhediya)"
+    },
+    {
+      "name": "Badger",
+      "english": "(बेजर)",
+      "hindi": "बिज्जू (Bijju)"
+    },
+    {
+      "name": "Beer",
+      "english": "(बियर)",
+      "hindi": "भालू (Bhalu)"
+    },
+    {
+      "name": "Camel",
+      "english": "(कैमल)",
+      "hindi": "ऊंट (Unt)"
+    },
+    {
+      "name": "Chimpanzee",
+      "english": "(चिंपांज़ी)",
+      "hindi": "चिंपांज़ी"
+    },
+    {
+      "name": "Crocodile",
+      "english": "(क्रोकोडाइल)",
+      "hindi": "मगरमच्छ  (Magarmachchh)"
+    },
+    {
+      "name": "Deer",
+      "english": "(डियर)",
+      "hindi": "हिरन (Hiran)"
+    },
+    {
+      "name": "Elephant",
+      "english": "(एलीफैंट)",
+      "hindi": "हाथी (Hathi)"
+    },
+    {
+      "name": "Frog",
+      "english": "(फ्रॉग)",
+      "hindi": "मेढक (Medhak)"
+    },
+    {
+      "name": "Giraffe",
+      "english": "(जिराफ़)",
+      "hindi": "जिराफ़ (Jiraph)"
+    },
+    {
+      "name": "Hare",
+      "english": "(हेर)",
+      "hindi": "खरगोश (Khargosh)"
+    },
+    {
+      "name": "Hedgehog",
+      "english": "(हेजहोग)",
+      "hindi": "कांटेदार जंगली चूहा  (Kantedar jangli chuha)"
+    },
+    {
+      "name": "Lizard",
+      "english": "(लिज़र्ड)",
+      "hindi": "छिपकली (Chhipkali)"
+    },
+    {
+      "name": "Mole",
+      "english": "(मोल)",
+      "hindi": "छछूंदर (Chhchhundar)"
+    },
+    {
+      "name": "Otter",
+      "english": "(आटर)",
+      "hindi": "ऊदबिलाव (Udbilao)"
+    },
+    {
+      "name": "Rat",
+      "english": "(रैट)",
+      "hindi": "चुहा (Chuha)"
+    },
+    {
+      "name": "Squirrel",
+      "english": "(स्क्वरल)",
+      "hindi": "गिलहरि (Gilhari)"
+    },
+    {
+      "name": "Toad",
+      "english": "(टोड)",
+      "hindi": "मेंढक (Mendhak)"
+    }
+  ]

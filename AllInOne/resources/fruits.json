@@ -1,0 +1,197 @@
+[
+    {
+      "name": "Apple",
+      "english": "(एप्पल)",
+      "hindi": "शेब (Sheb)"
+    },
+    {
+      "name": "Banana",
+      "english": "(बनाना)",
+      "hindi": "केला (Kela)"
+    },
+    {
+      "name": "Coconut",
+      "english": "(कोकोनट)",
+      "hindi": "नारियल (Nariyal)"
+    },
+    {
+      "name": "Orange",
+      "english": "(ऑरेंज)",
+      "hindi": "संतरा (Santra)"
+    },
+    {
+      "name": "Pineapple",
+      "english": "(पाइनएप्पल)",
+      "hindi": "अनानास (Ananas)"
+    },
+    {
+      "name": "Papaya",
+      "english": "(पपाया)",
+      "hindi": "पपीता (Papita)"
+    },
+    {
+      "name": "Mango",
+      "english": "(मैंगो)",
+      "hindi": "आम (Aam)"
+    },
+    {
+      "name": "Guava",
+      "english": "(गुआवा)",
+      "hindi": "अमरुद (Amrud)"
+    },
+    {
+      "name": "Lemon",
+      "english": "(लेमन)",
+      "hindi": "निम्बू (Nimboo)"
+    },
+    {
+      "name": "Watermelon",
+      "english": "(वाटरमेलन)",
+      "hindi": "तरबूज (Tarbooj)"
+    },
+    {
+      "name": "Wood Apple",
+      "english": "(वुड एप्पल)",
+      "hindi": "बेल (Bel)"
+    },
+    {
+      "name": "Apricots",
+      "english": "(एप्रिकोट्स)",
+      "hindi": "खुबानी (Khubanee)"
+    },
+    {
+      "name": "Almond",
+      "english": "(आलमंड)",
+      "hindi": "बादाम (Badam)"
+    },
+    {
+      "name": "Avocado",
+      "english": "(एवोकाडो)",
+      "hindi": "मक्खनफल (MakkhanPhal)"
+    },
+    {
+      "name": "Barberry",
+      "english": "(बारबेर्री)",
+      "hindi": "दारुहल्दी (Daruhaldi)"
+    },
+    {
+      "name": "Black Currant",
+      "english": "(ब्लैक करंट)",
+      "hindi": "फालशेब (Falsheb)"
+    },
+    {
+      "name": "Blackberry",
+      "english": "(ब्लैकबेरी)",
+      "hindi": "जामुन (Jamun)"
+    },
+    {
+      "name": "Blueberry",
+      "english": "(ब्लुबेर्री)",
+      "hindi": "नीलबदरी (Neelbadri)"
+    },
+    {
+      "name": "Breadfruit",
+      "english": "(ब्रेडफ्रूट)",
+      "hindi": "विलायती फल (Vilayti phal)"
+    },
+    {
+      "name": "Cashews",
+      "english": "(कश्यु)",
+      "hindi": "काजू (Kajoo)"
+    },
+    {
+      "name": "Cherry",
+      "english": "(चेरी)",
+      "hindi": "चेरी फल (Cheri phal)"
+    },
+    {
+      "name": "Custard Apple",
+      "english": "(कस्टर्ड एप्पल)",
+      "hindi": "सरीफा (Sarifa)"
+    },
+    {
+      "name": "Date fruit",
+      "english": "(डेट फ्रूट)",
+      "hindi": "खजूर (Khajoor)"
+    },
+    {
+      "name": "Fig",
+      "english": "(फिग)",
+      "hindi": "अंजीर (Anjir)"
+    },
+    {
+      "name": "Gooseberry",
+      "english": "(गूसबेर्री)",
+      "hindi": "करोंदा (Karonda)"
+    },
+    {
+      "name": "Grapes",
+      "english": "(ग्रैप्स)",
+      "hindi": "अंगूर (Angur"
+    },
+    {
+      "name": "Jackfruit",
+      "english": "(जैकफ्रूट)",
+      "hindi": "कटहल (KatHal)"
+    },
+    {
+      "name": "Lychee",
+      "english": "(लीची)",
+      "hindi": "लीची (Lichee)"
+    },
+    {
+      "name": "Mulberry",
+      "english": "(मुल्बेर्री)",
+      "hindi": "शहतूत (Shahtoot)"
+    },
+    {
+      "name": "Nut",
+      "english": "(नट)",
+      "hindi": "अखरोट (Akhrot)"
+    },
+    {
+      "name": "Peach",
+      "english": "(पीच)",
+      "hindi": "आडू (Aadoo)"
+    },
+    {
+      "name": "Pear",
+      "english": "(पियर)",
+      "hindi": "नाशपति (Nashpati)"
+    },
+    {
+      "name": "Pistachio",
+      "english": "(पिस्ताचियो)",
+      "hindi": "पिस्ता (Pista)"
+    },
+    {
+      "name": "Plum",
+      "english": "(पल्म)",
+      "hindi": "बेर (Ber)"
+    },
+    {
+      "name": "Pomegranate",
+      "english": "(पोमेग्रेनेट)",
+      "hindi": "अनार (Anaar)"
+    },
+    {
+      "name": "Raisins",
+      "english": "(रेसिंस)",
+      "hindi": "किशमिश (Kishmish)"
+    },
+    {
+      "name": "Sapota",
+      "english": "(सपोता)",
+      "hindi": "चीकू (Chikoo)"
+    },
+    {
+      "name": "Starfruit",
+      "english": "(स्टारफ्रूट)",
+      "hindi": "कमरख (Kamrakh)"
+    },
+    {
+      "name": "Sweet Lime",
+      "english": "(स्वीट लाइम)",
+      "hindi": "मौसंबी (Mosambi)"
+    }
+  ]

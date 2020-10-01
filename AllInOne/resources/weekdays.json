@@ -1,0 +1,37 @@
+[
+    {
+      "name": "Sunday",
+      "english": "(सन्डे)",
+      "hindi": "रबिवार (Ravivar)"
+    },
+    {
+      "name": "Monday",
+      "english": "(मंडे)",
+      "hindi": "सोमवार (Somvar)"
+    },
+    {
+      "name": "Tuesday",
+      "english": "(ट्यूजडे)",
+      "hindi": "मंगलवार (Mangalvar)"
+    },
+    {
+      "name": "Wednesday",
+      "english": "(वेडनेसडे)",
+      "hindi": "बुधवार (Budhvar)"
+    },
+    {
+      "name": "Thursday",
+      "english": "(थर्सडे)",
+      "hindi": "गुरुवार (Guruvar)"
+    },
+    {
+      "name": "Friday",
+      "english": "(फ्राइडे)",
+      "hindi": "शुक्रवार (Shukrvar)"
+    },
+    {
+      "name": "Saturday",
+      "english": "(सैटरडे)",
+      "hindi": "शनिवार (Shanivar)"
+    }
+  ]

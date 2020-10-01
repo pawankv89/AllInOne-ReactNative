@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Ant",
+    "english": "(एंट)",
+    "hindi": "चींटी (Chinti)"
+  },
+  {
+    "name": "Bee",
+    "english": "(बी)",
+    "hindi": "मधुमक्खी (Madhumakhi)"
+  },
+  {
+    "name": "Beetle",
+    "english": "(बीटल)",
+    "hindi": "भृंग (Bhring)"
+  },
+  {
+    "name": "Butterfly",
+    "english": "(बटरफ्लाई)",
+    "hindi": "तितली (Titli)"
+  },
+  {
+    "name": "Centipede",
+    "english": "(सेंटीपेड)",
+    "hindi": "चालीसपद (Chalisapad)"
+  },
+  {
+    "name": "Cockroach",
+    "english": "(कॉकरोच)",
+    "hindi": "तिलचट्टा (Teelchata)"
+  },
+  {
+    "name": "Dragonfly",
+    "english": "(ड्रैगनफ्लाई)",
+    "hindi": "तितली"
+  },
+  {
+    "name": "Fly",
+    "english": "(फ्लाई)",
+    "hindi": "मक्खी (Makkhi)"
+  },
+  {
+    "name": "Grasshopper",
+    "english": "(ग्रासऑपर)",
+    "hindi": "टिड्डी (Tiddi)"
+  },
+  {
+    "name": "Ladybird",
+    "english": "(लेडीबर्ड)",
+    "hindi": "एक प्रकार की गुबरैला"
+  },
+  {
+    "name": "Louse",
+    "english": "(लूज)",
+    "hindi": "जूं (Joo)"
+  },
+  {
+    "name": "Mosquito",
+    "english": "(मस्कीटो)",
+    "hindi": "मछर (Machhar)"
+  },
+  {
+    "name": "Moth",
+    "english": "(मोथ)",
+    "hindi": "कीट (Keet)"
+  },
+  {
+    "name": "Spider",
+    "english": "(स्पाइडर)",
+    "hindi": "मकड़ी (Makdi)"
+  },
+  {
+    "name": "Worm",
+    "english": "(वर्म)",
+    "hindi": "कृमि (Krimi)"
+  }
+]

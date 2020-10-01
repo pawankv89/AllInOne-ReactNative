@@ -1,0 +1,508 @@
+[
+    {
+      "name": "0",
+      "english": "zero",
+      "hindi": "शून्य (Shuniye)"
+    },
+    {
+      "name": "1",
+      "english": "one",
+      "hindi": "एक (Ek)"
+    },
+    {
+      "name": "2",
+      "english": "two",
+      "hindi": "दो (Do)"
+    },
+    {
+      "name": "3",
+      "english": "three",
+      "hindi": "तीन (Teen)"
+    },
+    {
+      "name": "4",
+      "english": "four",
+      "hindi": "चार (Char)"
+    },
+    {
+      "name": "5",
+      "english": "five",
+      "hindi": "पांच (Panch)"
+    },
+    {
+      "name": "6",
+      "english": "six",
+      "hindi": "छह (Cheh)"
+    },
+    {
+      "name": "7",
+      "english": "seven",
+      "hindi": "सात (Saat)"
+    },
+    {
+      "name": "8",
+      "english": "eight",
+      "hindi": "आठ (Aath)"
+    },
+    {
+      "name": "9",
+      "english": "nine",
+      "hindi": "नौ (Nao)"
+    },
+    {
+      "name": "10",
+      "english": "ten",
+      "hindi": "दस (Das)"
+    },
+    {
+      "name": "11",
+      "english": "eleven",
+      "hindi": "ग्यारह (Gyaarah)"
+    },
+    {
+      "name": "12",
+      "english": "twelve",
+      "hindi": "बारह (Baarah)"
+    },
+    {
+      "name": "13",
+      "english": "thirteen",
+      "hindi": "तेरह (Tehrah)"
+    },
+    {
+      "name": "14",
+      "english": "fourteen",
+      "hindi": "चौदह (Chaudah)"
+    },
+    {
+      "name": "15",
+      "english": "fifteen",
+      "hindi": "पंद्रह (Pandrah)"
+    },
+    {
+      "name": "16",
+      "english": "sixteen",
+      "hindi": "सोलह (Saulah)"
+    },
+    {
+      "name": "17",
+      "english": "seventeen",
+      "hindi": "सत्रह (Satrah)"
+    },
+    {
+      "name": "18",
+      "english": "eighteen",
+      "hindi": "अठारह (Atharah)"
+    },
+    {
+      "name": "19",
+      "english": "nineteen",
+      "hindi": "उन्नीस (Unnis)"
+    },
+    {
+      "name": "20",
+      "english": "twenty",
+      "hindi": "बीस (Bees)"
+    },
+    {
+      "name": "21",
+      "english": "twenty one",
+      "hindi": "इकीस (Ikis)"
+    },
+    {
+      "name": "22",
+      "english": "twenty two",
+      "hindi": "बाईस (Bais)"
+    },
+    {
+      "name": "23",
+      "english": "twenty three",
+      "hindi": "तेइस (Teis)"
+    },
+    {
+      "name": "24",
+      "english": "twenty four",
+      "hindi": "चौबीस (Chaubis)"
+    },
+    {
+      "name": "25",
+      "english": "twenty five",
+      "hindi": "पच्चीस (Pachis)"
+    },
+    {
+      "name": "26",
+      "english": "twenty six",
+      "hindi": "छब्बीस (Chabis)"
+    },
+    {
+      "name": "27",
+      "english": "twenty seven",
+      "hindi": "सताइस (Satais)"
+    },
+    {
+      "name": "28",
+      "english": "twenty eight",
+      "hindi": "अट्ठाइस (Athais)"
+    },
+    {
+      "name": "29",
+      "english": "twenty nine",
+      "hindi": "उनतीस (Unatis)"
+    },
+    {
+      "name": "30",
+      "english": "thirty",
+      "hindi": "तीस (Tis)"
+    },
+    {
+      "name": "31",
+      "english": "thirty one",
+      "hindi": "इकतीस (Ikatis)"
+    },
+    {
+      "name": "32",
+      "english": "thirty two",
+      "hindi": "बतीस (Batis)"
+    },
+    {
+      "name": "33",
+      "english": "thirty three",
+      "hindi": "तैंतीस (Tentis)"
+    },
+    {
+      "name": "34",
+      "english": "thirty four",
+      "hindi": "चौंतीस (Chautis)"
+    },
+    {
+      "name": "35",
+      "english": "thirty five",
+      "hindi": "पैंतीस (Pentis)"
+    },
+    {
+      "name": "36",
+      "english": "thirty six",
+      "hindi": "छतीस (Chatis)"
+    },
+    {
+      "name": "37",
+      "english": "thirty seven",
+      "hindi": "सैंतीस (Setis)"
+    },
+    {
+      "name": "38",
+      "english": "thirty eight",
+      "hindi": "अड़तीस (Adhtis)"
+    },
+    {
+      "name": "39",
+      "english": "thirty nine",
+      "hindi": "उनतालीस (Untaalis)"
+    },
+    {
+      "name": "40",
+      "english": "forty",
+      "hindi": "चालीस (Chalis)"
+    },
+    {
+      "name": "41",
+      "english": "forty one",
+      "hindi": "इकतालीस (Iktalis)"
+    },
+    {
+      "name": "42",
+      "english": "forty two",
+      "hindi": "बयालीस (Byalis)"
+    },
+    {
+      "name": "43",
+      "english": "forty three",
+      "hindi": "तैतालीस (Tetalis)"
+    },
+    {
+      "name": "44",
+      "english": "forty four",
+      "hindi": "चवालीस (Chavalis)"
+    },
+    {
+      "name": "45",
+      "english": "forty five",
+      "hindi": "पैंतालीस (Pentalis)"
+    },
+    {
+      "name": "46",
+      "english": "forty six",
+      "hindi": "छयालिस (Chyalis)"
+    },
+    {
+      "name": "47",
+      "english": "forty seven",
+      "hindi": "सैंतालीस (Setalis)"
+    },
+    {
+      "name": "48",
+      "english": "forty eight",
+      "hindi": "अड़तालीस (Adtalis)"
+    },
+    {
+      "name": "49",
+      "english": "forty nine",
+      "hindi": "उनचास (Unachas)"
+    },
+    {
+      "name": "50",
+      "english": "fifty",
+      "hindi": "पचास (Pachas)"
+    },
+    {
+      "name": "51",
+      "english": "fifty one",
+      "hindi": "इक्यावन (Ikyavan)"
+    },
+    {
+      "name": "52",
+      "english": "fifty two",
+      "hindi": "बावन (Baavan)"
+    },
+    {
+      "name": "53",
+      "english": "fifty three",
+      "hindi": "तिरपन (Tirepan)"
+    },
+    {
+      "name": "54",
+      "english": "fifty four",
+      "hindi": "चौवन (Chauvan)"
+    },
+    {
+      "name": "55",
+      "english": "fifty five",
+      "hindi": "पचपन (Pachpan)"
+    },
+    {
+      "name": "56",
+      "english": "fifty six",
+      "hindi": "छप्पन (Chappan)"
+    },
+    {
+      "name": "57",
+      "english": "fifty seven",
+      "hindi": "सतावन (Satavan)"
+    },
+    {
+      "name": "58",
+      "english": "fifty eight",
+      "hindi": "अठावन (Athaavan)"
+    },
+    {
+      "name": "59",
+      "english": "fifty nine",
+      "hindi": "उनसठ (Unsadh)"
+    },
+    {
+      "name": "60",
+      "english": "sixty",
+      "hindi": "साठ (Saadh)"
+    },
+    {
+      "name": "61",
+      "english": "sixty one",
+      "hindi": "इकसठ (Iksadh)"
+    },
+    {
+      "name": "62",
+      "english": "sixty two",
+      "hindi": "बासठ (Baasad)"
+    },
+    {
+      "name": "63",
+      "english": "sixty three",
+      "hindi": "तिरसठ (Tirsadh)"
+    },
+    {
+      "name": "64",
+      "english": "sixty four",
+      "hindi": "चौंसठ (Chausadh)"
+    },
+    {
+      "name": "65",
+      "english": "sixty five",
+      "hindi": "पैंसठ (Pensadh)"
+    },
+    {
+      "name": "66",
+      "english": "sixty six",
+      "hindi": "छियासठ (Chiyasadh)"
+    },
+    {
+      "name": "67",
+      "english": "sixty seven",
+      "hindi": "सड़सठ (Sadhsadh)"
+    },
+    {
+      "name": "68",
+      "english": "sixty eight",
+      "hindi": "अड़सठ (Asdhsadh)"
+    },
+    {
+      "name": "69",
+      "english": "sixty nine",
+      "hindi": "उनहतर (Unahtar)"
+    },
+    {
+      "name": "70",
+      "english": "seventy",
+      "hindi": "सत्तर (Sattar)"
+    },
+    {
+      "name": "71",
+      "english": "seventy one",
+      "hindi": "इकहतर (Ikahtar)"
+    },
+    {
+      "name": "72",
+      "english": "seventy two",
+      "hindi": "बहतर (Bahatar)"
+    },
+    {
+      "name": "73",
+      "english": "seventy three",
+      "hindi": "तिहतर (Tihatar)"
+    },
+    {
+      "name": "74",
+      "english": "seventy four",
+      "hindi": "चौहतर (Chauhatar)"
+    },
+    {
+      "name": "75",
+      "english": "seventy five",
+      "hindi": "पचहतर (Pachhatar)"
+    },
+    {
+      "name": "76",
+      "english": "seventy six",
+      "hindi": "छिहतर (Chiyahatar)"
+    },
+    {
+      "name": "77",
+      "english": "seventy seven",
+      "hindi": "सतहतर (Satahatar)"
+    },
+    {
+      "name": "78",
+      "english": "seventy eight",
+      "hindi": "अठहतर (Adhahatar)"
+    },
+    {
+      "name": "79",
+      "english": "seventy nine",
+      "hindi": "उन्नासी (Unnasi)"
+    },
+    {
+      "name": "80",
+      "english": "eighty",
+      "hindi": "अस्सी (Assi)"
+    },
+    {
+      "name": "81",
+      "english": "eighty one",
+      "hindi": "इक्यासी (Ikyasi)"
+    },
+    {
+      "name": "82",
+      "english": "eighty two",
+      "hindi": "बयासी (Byaasi)"
+    },
+    {
+      "name": "83",
+      "english": "eighty three",
+      "hindi": "तिरासी (Tirasi)"
+    },
+    {
+      "name": "84",
+      "english": "eighty four",
+      "hindi": "चौरासी (Chaurasi)"
+    },
+    {
+      "name": "85",
+      "english": "eighty five",
+      "hindi": "पचासी (Pachasi)"
+    },
+    {
+      "name": "86",
+      "english": "eighty six",
+      "hindi": "छियासी (Chiyaasi)"
+    },
+    {
+      "name": "87",
+      "english": "eighty seven",
+      "hindi": "सतासी (Sataasi)"
+    },
+    {
+      "name": "88",
+      "english": "eighty eight",
+      "hindi": "अट्ठासी (Athasi)"
+    },
+    {
+      "name": "89",
+      "english": "eighty nine",
+      "hindi": "नवासी (Nauasi)"
+    },
+    {
+      "name": "90",
+      "english": "ninety",
+      "hindi": "नब्बे (Nabbe)"
+    },
+    {
+      "name": "91",
+      "english": "ninety one",
+      "hindi": "इक्यानवे (Ikyaanave)"
+    },
+    {
+      "name": "92",
+      "english": "ninety two",
+      "hindi": "बानवे (Baanave)"
+    },
+    {
+      "name": "93",
+      "english": "ninety three",
+      "hindi": "तिरानवे (Tiranave)"
+    },
+    {
+      "name": "94",
+      "english": "ninety four",
+      "hindi": "चौरानवे (Chauraanave)"
+    },
+    {
+      "name": "95",
+      "english": "ninety five",
+      "hindi": "पचानवे (Pachaanave)"
+    },
+    {
+      "name": "96",
+      "english": "ninety six",
+      "hindi": "छियानवे (Chiyaanave)"
+    },
+    {
+      "name": "97",
+      "english": "ninety seven",
+      "hindi": "सतानवे (Sataanave)"
+    },
+    {
+      "name": "98",
+      "english": "ninety eight",
+      "hindi": "अट्ठानवे (Adhaanave)"
+    },
+    {
+      "name": "99",
+      "english": "ninety nine",
+      "hindi": "निन्यानवे (Ninyaanave)"
+    },
+    {
+      "name": "100",
+      "english": "one hundred",
+      "hindi": "एक सौ (Ek Sau)"
+    }
+  ]
+  

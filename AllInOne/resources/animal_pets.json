@@ -1,0 +1,47 @@
+[
+    {
+      "name": "Dog",
+      "english": "(डॉग)",
+      "hindi": "कुत्ता (Kutta)"
+    },
+    {
+      "name": "Cat",
+      "english": "(कैट)",
+      "hindi": "बिल्ली (Billi)"
+    },
+    {
+      "name": "Puppy",
+      "english": "(पप्पी)",
+      "hindi": "कुत्ते का बच्चा (Kutte ka bachcha)"
+    },
+    {
+      "name": "Goldfish",
+      "english": "(गोल्डफिश)",
+      "hindi": "सुनहरी मछली (Sunahri Machhli)"
+    },
+    {
+      "name": "Hamster",
+      "english": "(हम्सटर)",
+      "hindi": "चूहे जैसा जानवर (Chuhe jaisa janwar)"
+    },
+    {
+      "name": "Mouse",
+      "english": "(माउस)",
+      "hindi": "चूहा (Chuha)"
+    },
+    {
+      "name": "Parrot",
+      "english": "(पैरेट)",
+      "hindi": "तोता (Tota)"
+    },
+    {
+      "name": "Rabbit",
+      "english": "(रैबिट)",
+      "hindi": "खरगोश (Khargosh)"
+    },
+    {
+      "name": "Turtle",
+      "english": "(टर्टल)",
+      "hindi": "कछुआ (Kachhuaa)"
+    }
+  ]

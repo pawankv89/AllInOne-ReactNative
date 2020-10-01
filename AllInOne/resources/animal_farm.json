@@ -1,0 +1,68 @@
+[
+    {
+      "id": "1",
+      "name": "Sheep",
+      "english": "(शीप)",
+      "hindi": "भेड़ (Bhed)"
+    },
+    {
+      "id": "2",
+      "name": "Pig",
+      "english": "(पिग)",
+      "hindi": "सूअर (Suwar)"
+    },
+    {
+      "id": "3",
+      "name": "Rabbit",
+      "english": "(रैबिट)",
+      "hindi": "खरगोश (Khargosh)"
+    },
+    {
+      "id": "4",
+      "name": "Ox",
+      "english": "(ऑक्स)",
+      "hindi": "बैल (Bail)"
+    },
+    {
+      "id": "5",
+      "name": "Horse",
+      "english": "(हॉर्स)",
+      "hindi": "घोड़ा (Ghoda)"
+    },
+    {
+      "id": "6",
+      "name": "Mare",
+      "english": "(मेयर)",
+      "hindi": "घोड़ी (Ghodi)"
+    },
+    {
+      "id": "7",
+      "name": "Goat",
+      "english": "(गोट)",
+      "hindi": "बकरी (Bakri)"
+    },
+    {
+      "id": "8",
+      "name": "Duck",
+      "english": "(डक)",
+      "hindi": "बत्तख (Batakh)"
+    },
+    {
+      "id": "9",
+      "name": "Cow",
+      "english": "(काऊ)",
+      "hindi": "गाय (Gay)"
+    },
+    {
+      "id": "10",
+      "name": "Cock",
+      "english": "(कॉक)",
+      "hindi": "मुर्गा (Murga)"
+    },
+    {
+      "id": "11",
+      "name": "Hen",
+      "english": "(हेन)",
+      "hindi": "मुर्गी (Murgi)"
+    }
+  ]

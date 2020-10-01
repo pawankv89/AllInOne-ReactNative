@@ -1,0 +1,62 @@
+[
+    {
+      "name": "January",
+      "english": "(जनवरी)",
+      "hindi": "31"
+    },
+    {
+      "name": "February",
+      "english": "(फ़रवरी)",
+      "hindi": "28/29"
+    },
+    {
+      "name": "March",
+      "english": "(मार्च)",
+      "hindi": "31"
+    },
+    {
+      "name": "April",
+      "english": "(अप्रैल)",
+      "hindi": "30"
+    },
+    {
+      "name": "May",
+      "english": "(मई)",
+      "hindi": "31"
+    },
+    {
+      "name": "June",
+      "english": "(जून)",
+      "hindi": "30"
+    },
+    {
+      "name": "July",
+      "english": "(जुलाई)",
+      "hindi": "31"
+    },
+    {
+      "name": "August",
+      "english": "(अगस्त)",
+      "hindi": "31"
+    },
+    {
+      "name": "September",
+      "english": "(सितंबर)",
+      "hindi": "30"
+    },
+    {
+      "name": "October",
+      "english": "(अक्टूबर)",
+      "hindi": "31"
+    },
+    {
+      "name": "November",
+      "english": "(नवंबर)",
+      "hindi": "30"
+    },
+    {
+      "name": "December",
+      "english": "(दिसंबर)",
+      "hindi": "31"
+    }
+  ]

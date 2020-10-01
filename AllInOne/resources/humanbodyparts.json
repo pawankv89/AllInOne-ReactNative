@@ -1,0 +1,217 @@
+[
+    {
+      "name": "Face",
+      "english": "(फेस)",
+      "hindi": "चेहरा (Chehra)"
+    },
+    {
+      "name": "Eyes",
+      "english": "(आईज)",
+      "hindi": "आँखे (Aankhe)"
+    },
+    {
+      "name": "Eye",
+      "english": "(आइ)",
+      "hindi": "आँख (Aankh)"
+    },
+    {
+      "name": "Eyebrow",
+      "english": "(आइब्रो)",
+      "hindi": "भौं (Bhaun)"
+    },
+    {
+      "name": "Tongue",
+      "english": "(टंग)",
+      "hindi": "जीभ (Jeebh)"
+    },
+    {
+      "name": "Mouth",
+      "english": "(माउथ)",
+      "hindi": "मुँह (Munh)"
+    },
+    {
+      "name": "Teeth",
+      "english": "(टीथ)",
+      "hindi": "दांत (Daant)"
+    },
+    {
+      "name": "Lips",
+      "english": "(लिप्स)",
+      "hindi": "होंठ (Hoth)"
+    },
+    {
+      "name": "Cheek",
+      "english": "(चीक)",
+      "hindi": "गाल (Gaal)"
+    },
+    {
+      "name": "Nose",
+      "english": "(नोज)",
+      "hindi": "नाक (Naak)"
+    },
+    {
+      "name": "Forehead",
+      "english": "(फॉरहेड)",
+      "hindi": "माथा (Maatha)"
+    },
+    {
+      "name": "Hair",
+      "english": "(हेयर)",
+      "hindi": "बाल (Ball)"
+    },
+    {
+      "name": "Shoulder",
+      "english": "(शोल्डर)",
+      "hindi": "कन्धा (Kandha)"
+    },
+    {
+      "name": "Back",
+      "english": "(बैक)",
+      "hindi": "कमर (Kamar)"
+    },
+    {
+      "name": "Stomach",
+      "english": "(स्तोमच)",
+      "hindi": "पेट (Pet)"
+    },
+    {
+      "name": "Throat",
+      "english": "(थ्रोट)",
+      "hindi": "गला (Galla)"
+    },
+    {
+      "name": "Leg",
+      "english": "(लेग)",
+      "hindi": "टांग (Taang)"
+    },
+    {
+      "name": "Knee",
+      "english": "(नी)",
+      "hindi": "घुटना (Ghutana)"
+    },
+    {
+      "name": "Foot",
+      "english": "(फूट)",
+      "hindi": "पैर (Pair)"
+    },
+    {
+      "name": "Hand",
+      "english": "(हैण्ड)",
+      "hindi": "हाथ (Hath)"
+    },
+    {
+      "name": "Ear",
+      "english": "(इयर)",
+      "hindi": "कान (Kaan)"
+    },
+    {
+      "name": "Beard",
+      "english": "(बियर्ड)",
+      "hindi": "दाढ़ी (Daarhi)"
+    },
+    {
+      "name": "Neck",
+      "english": "(नैक)",
+      "hindi": "गर्दन (Gardan)"
+    },
+    {
+      "name": "Moustache",
+      "english": "(मौसटेक)",
+      "hindi": "मूछ (Muchh)"
+    },
+    {
+      "name": "Smiley face",
+      "english": "(स्माइली फेस)",
+      "hindi": "हशमुख चेहरा (Hashmukh Chehra)"
+    },
+    {
+      "name": "Wrist",
+      "english": "(वरिस्ट)",
+      "hindi": "कलाई (Kalai)"
+    },
+    {
+      "name": "Larynx",
+      "english": "(लार्यन्क्स)",
+      "hindi": "कंठ (Kanth)"
+    },
+    {
+      "name": "Thumb",
+      "english": "(थम्ब)",
+      "hindi": "अंगूठा (Angutha)"
+    },
+    {
+      "name": "Fingers",
+      "english": "(फिंगर्स)",
+      "hindi": "उंगली (Ungali)"
+    },
+    {
+      "name": "Little Finger",
+      "english": "(लिटिल फिंगर)",
+      "hindi": "छोटी उंगली (Chhoti Ungali)"
+    },
+    {
+      "name": "Ring Finger",
+      "english": "(रिंग फिंगर)",
+      "hindi": "अनामिका (Anamika)"
+    },
+    {
+      "name": "Index Finger",
+      "english": "(इंडेक्स फिंगर)",
+      "hindi": "तर्जनी (Tarjani)"
+    },
+    {
+      "name": "Belly",
+      "english": "(बेल्ली)",
+      "hindi": "पेट (Pet)"
+    },
+    {
+      "name": "Bone",
+      "english": "(बोन)",
+      "hindi": "हड्डी (Haddi)"
+    },
+    {
+      "name": "Palm",
+      "english": "(पाल्म)",
+      "hindi": "हथेली (Hatheli)"
+    },
+    {
+      "name": "Calf",
+      "english": "(कल्फ)",
+      "hindi": "पिंडली (Pindali)"
+    },
+    {
+      "name": "Head",
+      "english": "(हेड)",
+      "hindi": "सिर (Sir)"
+    },
+    {
+      "name": "Hip",
+      "english": "(हिप)",
+      "hindi": "कुल्हा (Kulha)"
+    },
+    {
+      "name": "Skin",
+      "english": "(स्किन)",
+      "hindi": "त्वचा (Twacha)"
+    },
+    {
+      "name": "Nail",
+      "english": "(नेल)",
+      "hindi": "नाख़ून (Nakhun)"
+    },
+    {
+      "name": "Blood",
+      "english": "(ब्लड)",
+      "hindi": "रक्त (Rakt)"
+    },
+    {
+      "name": "Fist",
+      "english": "(फिस्ट)",
+      "hindi": "मुठी (Muthi)"
+    },
+    {
+      "name": "Brow",
+      "english": "(ब्रो)",
+      "hindi": "भौंह (Bhaunh)"
+    }
+  ]

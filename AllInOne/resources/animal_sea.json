@@ -1,0 +1,107 @@
+[
+    {
+      "name": "Turtle",
+      "english": "(टर्टल)",
+      "hindi": "कछुआ (kachhuwa)"
+    },
+    {
+      "name": "Urchin",
+      "english": "(अर्चिन)",
+      "hindi": "साही (Sahi)"
+    },
+    {
+      "name": "Seagull",
+      "english": "(सीगल)",
+      "hindi": "गंगा चिली (Ganga chili)"
+    },
+    {
+      "name": "Seahorse",
+      "english": "(सीहॉर्स)",
+      "hindi": "अश्वमीन (Aasmin)"
+    },
+    {
+      "name": "Shark",
+      "english": "(शार्क)",
+      "hindi": "शार्क मछली (Shark Machhli)"
+    },
+    {
+      "name": "Squid",
+      "english": "(स्क्विड)",
+      "hindi": "विद्रूप (Vidrup)"
+    },
+    {
+      "name": "Starfish",
+      "english": "(स्टारफिश)",
+      "hindi": "समुद्री मछली (Samudri Machhli)"
+    },
+    {
+      "name": "Walrus",
+      "english": "(वालरस)",
+      "hindi": "दरियाई घोडा (Dariyai Ghoda)"
+    },
+    {
+      "name": "Whale",
+      "english": "(व्हेल)",
+      "hindi": "ह्वेल मछली (Hwel Machhli)"
+    },
+    {
+      "name": "Clams",
+      "english": "(क्लैम)",
+      "hindi": "क्लैम एक समुद्री जानवर"
+    },
+    {
+      "name": "Coral",
+      "english": "(कोरल)",
+      "hindi": "प्रवाल (Prawal)"
+    },
+    {
+      "name": "Cormorant",
+      "english": "(कॉर्मरन्ट)",
+      "hindi": "पनकौवा (PanKauwa)"
+    },
+    {
+      "name": "Crab",
+      "english": "(क्रैब)",
+      "hindi": "केकड़ा (Kekda)"
+    },
+    {
+      "name": "Dolphin",
+      "english": "(डॉलफिन)",
+      "hindi": "डॉलफिन मछली"
+    },
+    {
+      "name": "Fish",
+      "english": "(फिश)",
+      "hindi": "मछली (Machhli)"
+    },
+    {
+      "name": "Jellyfish",
+      "english": "(जेलिफ़िश)",
+      "hindi": "जेल्लिफिश"
+    },
+    {
+      "name": "Lobster",
+      "english": "(लॉबस्टर)",
+      "hindi": "झींगा-मछली (Jhinga machhli)"
+    },
+    {
+      "name": "Octopus",
+      "english": "(ऑक्टोपस)",
+      "hindi": "अष्टभुज (Asthbhuj)"
+    },
+    {
+      "name": "Pelican",
+      "english": "(पेलिकन)",
+      "hindi": "हवासील (Hawasil)"
+    },
+    {
+      "name": "Penguin",
+      "english": "(पेंगुइन)",
+      "hindi": "समुद्री बगुला (Samudri Bagula)"
+    },
+    {
+      "name": "Sea lion",
+      "english": "(सी लायन)",
+      "hindi": "जाल-सिंह (Jal sinh)"
+    }
+  ]

@@ -1,0 +1,142 @@
+[
+    {
+      "name": "Andhra Pradesh",
+      "english": "(आंध्र प्रदेश)",
+      "hindi": "अमरावती (Amravati)"
+    },
+    {
+      "name": "Arunachal Pradesh",
+      "english": "(अरुणाचल प्रदेश)",
+      "hindi": "इटानगर (Itanagar)"
+    },
+    {
+      "name": "Assam",
+      "english": "(असम)",
+      "hindi": "दिसपुर (Dispur)"
+    },
+    {
+      "name": "Bihar",
+      "english": "(बिहार)",
+      "hindi": "पटना (Patna)"
+    },
+    {
+      "name": "Chhattisgarh",
+      "english": "(छत्तीसगढ़)",
+      "hindi": "रायपुर (Raipur)"
+    },
+    {
+      "name": "Goa",
+      "english": "(गोवा)",
+      "hindi": "पणजी (Panji)"
+    },
+    {
+      "name": "Gujarat",
+      "english": "(गुजरात)",
+      "hindi": "गांधीनगर (Gandhinagar)"
+    },
+    {
+      "name": "Hariyana",
+      "english": "(हरियाणा)",
+      "hindi": "चंडीगढ़ (Chandigarh)"
+    },
+    {
+      "name": "Himachal Pradesh",
+      "english": "(हिमाचल प्रदेश)",
+      "hindi": "शिमला (Shimla)"
+    },
+    {
+      "name": "Jharkhand",
+      "english": "(झारखण्ड)",
+      "hindi": "रांची (Ranchi)"
+    },
+    {
+      "name": "Karnataka",
+      "english": "(कर्नाटक)",
+      "hindi": "बेंगलुरु (Bengaluru)"
+    },
+    {
+      "name": "Kerala",
+      "english": "(केरल)",
+      "hindi": "तिरुवनंतपुरम  (Tiruvanantpuram)"
+    },
+    {
+      "name": "Madhya Pradesh",
+      "english": "(मध्य प्रदेश)",
+      "hindi": "भोपाल (Bhopal)"
+    },
+    {
+      "name": "Maharastra",
+      "english": "(महाराष्ट्र)",
+      "hindi": "मुम्बई (Mumbai)"
+    },
+    {
+      "name": "Manipur",
+      "english": "(मणिपुर)",
+      "hindi": "इम्फाल (Imphal)"
+    },
+    {
+      "name": "Meghalaya",
+      "english": "(मेघालय)",
+      "hindi": "शिल्लोंग (Shillong)"
+    },
+    {
+      "name": "Mizoram",
+      "english": "(मिजोरम)",
+      "hindi": "एझवाल (Aizwal)"
+    },
+    {
+      "name": "Nagaland",
+      "english": "(नागालैंड)",
+      "hindi": "कोहिमा (Kohima)"
+    },
+    {
+      "name": "Udisa",
+      "english": "(उड़ीसा)",
+      "hindi": "भुबनेश्वर (Bhubneswar)"
+    },
+    {
+      "name": "Punjab",
+      "english": "(पंजाब)",
+      "hindi": "चंडीगढ़ (Chandigarh)"
+    },
+    {
+      "name": "Rajasthan",
+      "english": "(राजस्थान)",
+      "hindi": "जयपुर (Jaipur)"
+    },
+    {
+      "name": "Sikkim",
+      "english": "(सिक्किम)",
+      "hindi": "गंगटोक (Gangtok)"
+    },
+    {
+      "name": "Tamil Nadu",
+      "english": "(तमिल नाडु)",
+      "hindi": "चेन्नई (Chennai)"
+    },
+    {
+      "name": "Telangana",
+      "english": "(तेलंगाना)",
+      "hindi": "हैदराबाद (Hyderabad)"
+    },
+    {
+      "name": "Tripura",
+      "english": "(त्रिपुरा)",
+      "hindi": "अगरतला (Agartala)"
+    },
+    {
+      "name": "Uttar Pradesh",
+      "english": "(उत्तर प्रदेश)",
+      "hindi": "लखनऊ (Lucknow)"
+    },
+    {
+      "name": "Uttarakhand",
+      "english": "(उत्तराखंड)",
+      "hindi": "देहरादून (Dehradun)"
+    },
+    {
+      "name": "Paschim (West) Bengal",
+      "english": "(पश्चिम बंगाल)",
+      "hindi": "कोलकाता (Kolkata)"
+    }
+  ]

@@ -1,0 +1,68 @@
+[
+    {
+      "name": "black",
+      "english": "Black",
+      "hindi": "काला (Kala)"
+    },
+    {
+        "name": "white",
+        "english": "White",
+        "hindi": "सफेद (Safed)"
+      },{
+        "name": "blue",
+        "english": "Blue",
+        "hindi": "नीला (Neela)"
+      },{
+        "name": "yellow",
+        "english": "Yellow",
+        "hindi": "पीला (Peela)"
+      },{
+        "name": "green",
+        "english": "Green",
+        "hindi": "हरा (Hara)"
+      },{
+        "name": "pink",
+        "english": "Pink",
+        "hindi": "गुलाबी (Gulabi)"
+      },{
+        "name": "brown",
+        "english": "Brown",
+        "hindi": "बादामी, भूरा (Badami /Bhura)"
+      },{
+        "name": "orange",
+        "english": "Orange",
+        "hindi": "नारंगी (Narangi)"
+      },{
+        "name": "skyblue",
+        "english": "Sky Blue",
+        "hindi": "आसमानी (Asamani)"
+      },{
+        "name": "gray",
+        "english": "Gray",
+        "hindi": "स्लेटी (Sleti)"
+      },{
+        "name": "red",
+        "english": "Red",
+        "hindi": "लाल (Lal)"
+      },{
+        "name": "purple",
+        "english": "Purple",
+        "hindi": "बैगनी (Baigni)"
+      },{
+        "name": "darkblue",
+        "english": "Navy Blue",
+        "hindi": "गहरा नीला (Gahara Neela)"
+      },{
+        "name": "gold",
+        "english": "Golden",
+        "hindi": "सुनहरा (Sunhara)"
+      },{
+        "name": "silver",
+        "english": "Silver",
+        "hindi": "चांदी (Chandi)"
+      },{
+        "name": "khaki",
+        "english": "Khaki",
+        "hindi": "खाकी (Khaki)"
+      }
+]
