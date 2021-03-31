@@ -19,13 +19,13 @@ import NetInfo from "@react-native-community/netinfo";
 
 import StartAppAd from '../startapp/StartAppAd';
 import Banner from '../startapp/StartAppBanner';
+import { Playstore, Appstore } from './Constant';
 
 // Share Play Store Link
 const onShare = async () => {
   try {
     const result = await Share.share({
-      message:
-        'http://play.google.com/store/apps/details?id=com.pk.allinone',
+      message: (Platform.OS === 'ios')? Appstore : Playstore,
     });
     if (result.action === Share.sharedAction) {
       if (result.activityType) {
@@ -140,7 +140,7 @@ class ListScreen extends Component {
       title: 'List',
       //Sets Header text of Status Bar
       headerStyle: {
-        backgroundColor: '#00BCD4',
+        backgroundColor: '#0a57f2',
         //Sets Header color
       },
       headerTintColor: '#fff',

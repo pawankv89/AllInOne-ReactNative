@@ -12,3 +12,5 @@ export const BACKGROUND_COLOR_CLEAR = 'transparent';
 export const ALIGNMENT_LEFT = 'left';
 export const ALIGNMENT_RIGHT = 'right';
 export const ALIGNMENT_CENTER = 'center';
+export const Playstore = 'http://play.google.com/store/apps/details?id=com.pk.allinone';
+export const Appstore = 'https://apps.apple.com/us/app/id1533627066';

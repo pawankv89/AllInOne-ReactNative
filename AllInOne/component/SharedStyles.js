@@ -35,14 +35,17 @@ const styles = StyleSheet.create({
     paddingTop: Platform.OS === 'ios' ? 0 : 0,
   },
   
+  // Home Box Style
   GridViewBlockStyle: {
     justifyContent: ALIGNMENT_CENTER,
     alignItems: ALIGNMENT_CENTER,
     flex: 1,
     height: 150,
     margin: 5,
-    backgroundColor: '#00BCD4',
+    backgroundColor: '#2faeed',
     borderRadius: BORDER_RADIUS,
+    borderColor: 'gray',
+    borderWidth: 1,
   },
 
   TextStyle: {
@@ -90,6 +93,9 @@ const styles = StyleSheet.create({
       borderRadius: 5,
       backgroundColor: '#FFF',
       elevation: 3,
+      borderRadius:5,
+      borderColor: 'gray',
+      borderWidth: 1,
       
     },
     //list item
@@ -107,6 +113,9 @@ const styles = StyleSheet.create({
       marginRight: 10,
       marginTop: 10,
       marginBottom: 10,
+      borderRadius:5,
+      borderColor: 'gray',
+      borderWidth: 1,
     },
     //banner
     banner:{
@@ -168,17 +177,19 @@ const numberStyles = StyleSheet.create({
     justifyContent: ALIGNMENT_CENTER,
     alignItems: ALIGNMENT_CENTER,
     borderRadius: 5,
-    backgroundColor: '#00BCD4',
+    backgroundColor: BACKGROUND_COLOR_CLEAR,
+    borderColor: 'gray',
+    borderWidth: 1,
   },
   text: {
-    color: TEXT_COLOR,
+    color: 'black',
     backgroundColor: BACKGROUND_COLOR_CLEAR,
     height:48,
     paddingVertical:16,
   },
 });
 
-//styles IV
+// Alphabets Box Style
 const gridStyles = StyleSheet.create({
   container: {
     flex: 1,
@@ -190,7 +201,7 @@ const gridStyles = StyleSheet.create({
     flex: 1,
     height: 150,
     margin: 5,
-    backgroundColor: '#00BCD4',
+    backgroundColor: '#2faeed',
     borderRadius: BORDER_RADIUS,
     justifyContent: ALIGNMENT_CENTER,
     alignItems: ALIGNMENT_CENTER,

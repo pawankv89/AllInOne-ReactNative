@@ -57,7 +57,7 @@ class AlphabetsScreen extends Component {
       title: 'Alphabets',
       //Sets Header text of Status Bar
       headerStyle: {
-        backgroundColor: '#00BCD4',
+        backgroundColor: '#0a57f2',
         //Sets Header color
       },
       headerTintColor: '#fff',

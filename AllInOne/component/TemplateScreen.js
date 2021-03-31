@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 import {SafeAreaView,StyleSheet,ScrollView,View,Text,Image,TouchableOpacity,Share,TextInput,StatusBar,AppRegistry,FlatList,Alert,Platform,requireNativeComponent} from 'react-native';
 import {styles} from './SharedStyles';
+import { Playstore, Appstore } from './Constant';
 
 // Share Play Store Link
 const onShare = async () => {
   try {
     const result = await Share.share({
-      message:
-        'http://play.google.com/store/apps/details?id=com.pk.allinone',
+      message: (Platform.OS === 'ios')? Appstore : Playstore,
     });
     if (result.action === Share.sharedAction) {
       if (result.activityType) {
