@@ -2,6 +2,8 @@
 
 ### AllInOne ReactNative for both support iOS and Android
 
+![](https://github.com/pawankv89/AllInOne-ReactNative/blob/master/images/appstore_1.png)
+![](https://github.com/pawankv89/AllInOne-ReactNative/blob/master/images/appstore_2.png)
 ![](https://github.com/pawankv89/AllInOne-ReactNative/blob/master/images/Screens_1.png)
 ![](https://github.com/pawankv89/AllInOne-ReactNative/blob/master/images/Screens_2.png)
 ![](https://github.com/pawankv89/AllInOne-ReactNative/blob/master/images/Screens_3.png)
@@ -55,6 +57,40 @@ Registry: ide.new.welcome.screen.force=true
 Non-Bundled Plugins: com.intellij.marketplace, com.thoughtworks.gauge, org.intellij.plugins.markdown
 
 ### Xcode Version 11.3 (11C29),iOS 13.2.0 SDK
+
+## Run Code your Machine
+
+###  Setup I
+NPM Install
+npm install
+
+###  Setup II
+Start Metro (Open Terminal 1)
+npx react-native start
+
+###  Setup III
+Start your application (Open Terminal 2)
+npx react-native run-ios
+npx react-native run-android
+
+### If adb devices not found getting Error:
+zsh: command not found: adb
+
+Woking Fine with Home-brew
+(https://formulae.brew.sh/cask/android-platform-tools)
+brew install --cask android-platform-tools
+
+Finally got device list
+adb devices                            
+List of devices attached
+emulator-5554    device
+
+
+## Play Store Link
+https://play.google.com/store/apps/details?id=com.pk.allinone
+
+## App Store Link
+https://apps.apple.com/us/app/id1533627066
 
 ## License
 
