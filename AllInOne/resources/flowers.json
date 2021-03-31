@@ -1,0 +1,57 @@
+[
+    {
+      "name": "Rose",
+      "english": "(रोज़)",
+      "hindi": "गुलाब (gulaab)"
+    },
+    {
+      "name": "Lotus",
+      "english": "(लोटस)",
+      "hindi": "कमल (kamal)"
+    },
+    {
+      "name": "Jasmine",
+      "english": "(जैस्मिन)",
+      "hindi": "चमेली (chamelee)"
+    },
+    {
+      "name": "Marigold",
+      "english": "(मैरीगोल्ड)",
+      "hindi": "गेंदे का फूल (gende ka phool)"
+    },
+    {
+      "name": "Sunflower",
+      "english": "(सूरजमुखी)",
+      "hindi": "सूरजमुखी (soorajamukhee)"
+    },
+    {
+      "name": "Hibiscus",
+      "english": "(हिबिस्कुस)",
+      "hindi": "गुड़हल का फूल (hibiskus)"
+    },
+    {
+      "name": "Daisy",
+      "english": "(डेज़ी)",
+      "hindi": "गुलबहार (gulabahaar)"
+    },
+    {
+      "name": "Black Turmeric Flower",
+      "english": "(Black Turmeric Flower)",
+      "hindi": "काली हल्दी का फूल (kaalee haldee ka phool)"
+    },
+    {
+      "name": "Tulip",
+      "english": "(ट्यूलिप)",
+      "hindi": "कन्द पुष्प (tyoolip)"
+    },
+    {
+      "name": "Magnolia",
+      "english": "(मैगनोलिया)",
+      "hindi": "चम्पा (maiganoliya)"
+    },
+    {
+      "name": "Periwinkle",
+      "english": "(पेरिविंकिल)",
+      "hindi": "सदाबहार (Periwinkle)"
+    }
+  ]
